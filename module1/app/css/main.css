@@ -1,0 +1,40 @@
+* {
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #50C878;
+	font-family: 'Neucha', cursive;
+}
+
+main{
+	background-color: #CC0605;
+	width: 70%;
+	margin: auto;
+	padding: 50px;
+	box-shadow: 0 0 150px 1px rgba(0,0,0,0.3) 	;
+}
+
+h1{
+	font-size: 42px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+
+p{
+	font-size:18px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+}
+
